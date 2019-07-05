@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\code\\oilers\\euler-dotnet\\euler-dotnet.csproj",
+      "projectUniqueName": "E:\\Code\\oilers\\euler-dotnet\\euler-dotnet.csproj",
       "projectName": "euler-dotnet",
-      "projectPath": "E:\\code\\oilers\\euler-dotnet\\euler-dotnet.csproj",
+      "projectPath": "E:\\Code\\oilers\\euler-dotnet\\euler-dotnet.csproj",
       "packagesPath": "C:\\Users\\jafomatic\\.nuget\\packages\\",
-      "outputPath": "E:\\code\\oilers\\euler-dotnet\\obj\\",
+      "outputPath": "E:\\Code\\oilers\\euler-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
